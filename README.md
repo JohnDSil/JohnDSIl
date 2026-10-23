@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:02aab0,100:00cdac&text=Daniel%20Silva&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=ASIR%20%7C%20SysAdmin%20%7C%20Redes%20%7C%20Seguridad&descSize=22&descAlignY=58&descColor=c0e0ff" alt="Banner Daniel Silva" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:02aab0,100:00cdac&text=Daniel%20Silva&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Administrador%20de%20Sistemas%20%7C%20Redes%20%7C%20Seguridad&descSize=22&descAlignY=60&descColor=ffffff" alt="Banner Daniel Silva" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=02aab0&center=true&vCenter=true&width=700&lines=Estudiante+de+2%C2%BA+de+ASIR+en+Sevilla;Administraci%C3%B3n+de+Sistemas+Linux+%26+Windows+Server;Bash+Scripting+%7C+Active+Directory+%7C+SQL;Gesti%C3%B3n+de+Servicios+de+Red%2C+HA+y+Seguridad;Buscando+pr%C3%A1cticas+FCT+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=02aab0&center=true&vCenter=true&width=720&lines=Estudiante+de+2%C2%BA+de+ASIR+%C2%B7+Sevilla;Linux+%26+Windows+Server+%C2%B7+Active+Directory;Redes%2C+servicios+y+automatizaci%C3%B3n+con+Bash;Buscando+pr%C3%A1cticas+FCT+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+**🟢 Disponible para FCT · Sevilla y alrededores**
 
 </div>
 
@@ -10,182 +12,97 @@
 
 ## 🧑‍💻 Sobre mí
 
-```sql
-CREATE TABLE daniel_silva (
-    nombre          VARCHAR2(50)  PRIMARY KEY,
-    ubicacion       VARCHAR2(50),
-    rol_actual      VARCHAR2(60),
-    objetivo        VARCHAR2(90),
-    filosofia       VARCHAR2(100)
-);
+Soy **Daniel Silva Reina**, estudiante de 2º de **ASIR** en el IES Rodrigo Caro (Coria del Río, Sevilla). Me gusta que los sistemas funcionen de forma predecible: por eso automatizo lo repetitivo, documento lo que hago y pruebo mis copias de seguridad *antes* de necesitarlas.
 
-INSERT INTO daniel_silva VALUES (
-    'Daniel Silva Reina',
-    'Coria del Rio, Sevilla',
-    'Estudiante de 2º de ASIR — IES Rodrigo Caro',
-    'FCT en IT / Administracion de Sistemas y Redes',
-    'Un buen administrador no solo repara fallos: los previene automatizando y documentando'
-);
+**Busco:** prácticas FCT en administración de sistemas, redes o soporte IT, donde pueda aprender de un equipo real y aportar desde el primer día.
 
-CREATE TABLE formacion_competencias (
-    area            VARCHAR2(30),
-    competencia     VARCHAR2(95)
-);
-
-INSERT ALL
-    INTO formacion_competencias VALUES ('Sistemas',      'Windows Server: Active Directory, GPOs, roles y administracion de identidades')
-    INTO formacion_competencias VALUES ('Sistemas',      'GNU/Linux (Debian/Ubuntu Server): gestion de permisos, CLI y automatizacion Bash')
-    INTO formacion_competencias VALUES ('Servicios Red', 'Despliegue y gestion de DNS (BIND), DHCP, SSH, VPN y protocolos TCP/IP')
-    INTO formacion_competencias VALUES ('Web & HA',      'Arquitecturas LAMP/LEMP (Apache, Nginx), CMS (WordPress, Moodle) y Git')
-    INTO formacion_competencias VALUES ('Seguridad',     'Cortafuegos con iptables/UFW, certificados SSL/TLS y copias de seguridad')
-    INTO formacion_competencias VALUES ('BBDD',          'SGBD relacionales: MySQL, MariaDB, PostgreSQL (administracion, backup y restore)')
-    INTO formacion_competencias VALUES ('Virtualizacion','Despliegue de entornos en VMware Workstation y VirtualBox')
-SELECT 1 FROM DUAL;
-
-CREATE TABLE idiomas (
-    idioma          VARCHAR2(40),
-    nivel           VARCHAR2(40)
-);
-
-INSERT ALL
-    INTO idiomas VALUES ('Castellano', 'Materno')
-    INTO idiomas VALUES ('Catalan',    'Materno')
-    INTO idiomas VALUES ('Ingles',     'Tecnico / Profesional (lectura fluida de docs y configuracion)')
-SELECT 1 FROM DUAL;
-
-COMMIT;
-```
+- 🗣️ **Idiomas:** castellano y catalán (maternos) · inglés técnico (lectura fluida de documentación y configuración)
+- 📚 **Ahora mismo:** administración avanzada de Linux, GPOs en Active Directory y despliegues LAMP/LEMP
+- 🧪 **Cómo aprendo:** montando laboratorios en VMware y VirtualBox, rompiéndolos y documentando la solución
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%"><b>🖥️ Sistemas & SO</b></td>
-<td align="center" width="25%"><b>🌐 Servicios & Web</b></td>
-<td align="center" width="25%"><b>🗄️ Bases de Datos</b></td>
-<td align="center" width="25%"><b>⚡ Seguridad & Herramientas</b></td>
-</tr>
-<tr>
-<td align="center">
-
+**Sistemas** &nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-</td>
-<td align="center">
-
+**Servicios y web** &nbsp;
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white)
 
-</td>
-<td align="center">
-
+**Bases de datos** &nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-</td>
-<td align="center">
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+**Herramientas** &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 </div>
 
 <br/>
 
-## 🌱 Enfoque formativo actual (2º ASIR)
+## 🧩 Qué sé hacer
 
-<div align="center">
-
-| | Área técnica | Nivel | Estado |
-| :---: | :--- | :--- | :---: |
-| 🐧 | **Linux (Debian / Ubuntu Server)** | `████████████████░░░░` 80% | 🔄 Administración avanzada, logs y Bash |
-| 🪟 | **Windows Server & Active Directory** | `███████████████░░░░░` 75% | 🔄 Gestión de dominios, GPOs y roles |
-| 🌐 | **Servicios de Red (DNS, DHCP, Web)** | `██████████████░░░░░░` 70% | 🔄 Despliegues LAMP/LEMP y BIND |
-| 🗄️ | **Bases de Datos Relacionales (ASGBD)** | `████████████░░░░░░░░` 60% | 🔄 Backups, integridad y consultas SQL |
-| 🛡️ | **Seguridad, Firewall & HA** | `██████████░░░░░░░░░░` 50% | 🔄 Reglas iptables/UFW y SSL/TLS |
-
-</div>
+| Área | Lo que he montado / administrado |
+| :--- | :--- |
+| 🪟 **Windows Server** | Dominio con Active Directory, usuarios y grupos, GPOs, roles del servidor |
+| 🐧 **Linux** | Permisos, usuarios, servicios con systemd, revisión de logs, scripts Bash + cron |
+| 🌐 **Redes** | DNS (BIND9), DHCP (ISC), SSH, VPN, direccionamiento y protocolos TCP/IP |
+| 🕸️ **Web** | Stacks LAMP/LEMP con Apache y Nginx, WordPress y Moodle |
+| 🗄️ **Bases de datos** | Administración en MySQL/MariaDB y PostgreSQL, copias de seguridad y restauración |
+| 🛡️ **Seguridad** | Cortafuegos con UFW/iptables, certificados SSL/TLS, política de backups |
 
 <br/>
 
-## 🎯 Filosofía de trabajo
+## 🚀 Proyectos destacados
 
-<div align="center">
+<!-- TODO: sustituye cada enlace por tu repositorio real y deja solo los que tengas terminados y documentados. -->
 
-> *"La consistencia y la prevención valen más que horas apagando incendios en producción."*
+| Proyecto | Qué demuestra | Stack |
+| :--- | :--- | :--- |
+| [**Dominio AD con GPOs**](https://github.com/JohnDSil/NOMBRE-REPO) | Alta de usuarios, unidades organizativas y políticas de grupo | Windows Server |
+| [**Servicios de red en Linux**](https://github.com/JohnDSil/NOMBRE-REPO) | DNS + DHCP + SSH funcionando en una red virtual | Debian, BIND9, ISC-DHCP |
+| [**Servidor web LAMP/LEMP**](https://github.com/JohnDSil/NOMBRE-REPO) | Despliegue de WordPress con HTTPS | Apache/Nginx, MariaDB, SSL/TLS |
+| [**Backups automatizados**](https://github.com/JohnDSil/NOMBRE-REPO) | Script Bash con rotación y prueba de restauración | Bash, cron, mysqldump |
+| [**Cortafuegos con UFW/iptables**](https://github.com/JohnDSil/NOMBRE-REPO) | Política de denegar por defecto y reglas mínimas | Linux, iptables |
 
-</div>
+> 💡 Cada repositorio incluye su propio README con esquema de red, pasos de instalación y capturas.
+
+<br/>
+
+## 🎯 Cómo trabajo
 
 ```bash
 #!/usr/bin/env bash
-# filosofia_sysadmin.sh - Principios de trabajo diario
+# principios.sh
 
-declare -A principios=(
-    ["prevencion"]="Si un servicio es critico, monitorizalo y ten un plan de backup probado"
-    ["automatizacion"]="Cualquier tarea repetitiva en un servidor merece un script en Bash"
-    ["seguridad"]="Aplica principio de menor privilegio: cortafuegos estricto y accesos controlados"
-    ["resiliencia"]="La experiencia previa en gestion bajo presion es clave para resolver incidencias tecnicas"
-    ["aprendizaje"]="Cada error de configuracion en el laboratorio es un aprendizaje directo"
-)
-
-for principio in "${!principios[@]}"; do
-    echo "[+] ${principio^^}: ${principios[$principio]}"
-done
+echo "[+] PREVENCIÓN:      monitoriza lo crítico y prueba tus backups"
+echo "[+] AUTOMATIZACIÓN:  si lo haces dos veces, escríbelo en un script"
+echo "[+] SEGURIDAD:       mínimo privilegio, cortafuegos estricto"
+echo "[+] DOCUMENTACIÓN:   lo que no está documentado no existe"
+echo "[+] APRENDIZAJE:     cada fallo en el laboratorio es un caso resuelto"
 ```
 
 <br/>
 
-## 🖥️ Terminal Session
-
-```bash
-danielsr@srv-asir:~$ neofetch
-       _,met$$$$$gg.          danielsr@srv-asir
-    ,g$$$$$$$$$$$$$$$P.       -----------------
-  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) / Windows Server
- ,$$P'              `$$$.     Host: ASIR Virtual Lab (VMware / VirtualBox)
-',$$P       ,ggs.     `$$b:   Kernel: Linux x86_64
-`d$$'     ,$P"'   .    $$$    Shell: bash 5.2 / PowerShell
- $$P      d$'     ,    $$P    Uptime: Cursando 2º ASIR (Prácticas FCT en preparación)
- $$:      $$.   -    ,d$$'    Packages: Apache, Nginx, BIND9, ISC-DHCP, MySQL, Postgres
- $$;      Y$b._   _,d$P'      Security: UFW / iptables, SSL/TLS Certificates
- Y$$.    `.`"Y$$$$P"'         Services: Active Directory, SSH, DNS, DHCP, Web Hosting
-  `$$b.    "-.__              Memory: Aprendizaje continuo y resolución proactiva
-   `Y$$b.
-     `"Y$b._
-         `"""~:
-
-danielsr@srv-asir:~$ cat /etc/motd
-¡Bienvenido al repositorio! Explora mis laboratorios de sistemas, servicios y scripts.
-```
-
-<br/>
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JohnDSil&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDSil&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&text_color=c9d1d9" alt="Top Langs" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnDSil&theme=algolia&hide_border=true&background=0d1117&ring=02aab0&fire=00cdac&currStreakLabel=02aab0" alt="GitHub Streak" width="520"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDSil&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&text_color=c9d1d9" alt="Lenguajes más usados" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=JohnDSil&theme=algolia&hide_border=true&background=0d1117&ring=02aab0&fire=00cdac&currStreakLabel=02aab0" alt="Racha de GitHub" height="150"/>
 
 </div>
 
@@ -196,9 +113,8 @@ danielsr@srv-asir:~$ cat /etc/motd
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-silvareinadaniel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvareinadaniel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO_GITHUB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Location](https://img.shields.io/badge/Ubicación-Coria_del_Río,_Sevilla-2EA44F?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN)
+[![Ubicación](https://img.shields.io/badge/Coria_del_Río-Sevilla-2EA44F?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
 
@@ -206,6 +122,6 @@ danielsr@srv-asir:~$ cat /etc/motd
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:02aab0,100:00cdac&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:02aab0,100:00cdac&section=footer" width="100%"/>
 
 </div>
