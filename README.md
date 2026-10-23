@@ -70,13 +70,10 @@ Soy **Daniel Silva Reina**, estudiante de 2º de **ASIR** en el IES Rodrigo Caro
 
 <!-- TODO: sustituye cada enlace por tu repositorio real y deja solo los que tengas terminados y documentados. -->
 
-| Proyecto | Qué demuestra | Stack |
+| Proyecto | Qué encontrarás | Tecnologías |
 | :--- | :--- | :--- |
-| [**Dominio AD con GPOs**](https://github.com/JohnDSil/NOMBRE-REPO) | Alta de usuarios, unidades organizativas y políticas de grupo | Windows Server |
-| [**Servicios de red en Linux**](https://github.com/JohnDSil/NOMBRE-REPO) | DNS + DHCP + SSH funcionando en una red virtual | Debian, BIND9, ISC-DHCP |
-| [**Servidor web LAMP/LEMP**](https://github.com/JohnDSil/NOMBRE-REPO) | Despliegue de WordPress con HTTPS | Apache/Nginx, MariaDB, SSL/TLS |
-| [**Backups automatizados**](https://github.com/JohnDSil/NOMBRE-REPO) | Script Bash con rotación y prueba de restauración | Bash, cron, mysqldump |
-| [**Cortafuegos con UFW/iptables**](https://github.com/JohnDSil/NOMBRE-REPO) | Política de denegar por defecto y reglas mínimas | Linux, iptables |
+| 📘 [**Guía de Kea DHCP**](https://github.com/JohnDSil/guia-kea) | Guía paso a paso para instalar y configurar el servidor DHCP Kea: subredes, reservas, opciones y comprobación del servicio | Debian/Ubuntu, Kea DHCP, redes |
+| 🐚 [**Scripts de administración**](https://github.com/JohnDSil/guia-scripting-bash) | Colección de scripts Bash para automatizar tareas repetitivas en servidores Linux | Bash, cron, Linux |
 
 > 💡 Cada repositorio incluye su propio README con esquema de red, pasos de instalación y capturas.
 
