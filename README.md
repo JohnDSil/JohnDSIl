@@ -180,12 +180,12 @@ danielsr@srv-asir:~$ cat /etc/motd
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&text_color=c9d1d9" alt="Top Langs" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JohnDSil&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDSil&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&text_color=c9d1d9" alt="Top Langs" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=algolia&hide_border=true&background=0d1117&ring=02aab0&fire=00cdac&currStreakLabel=02aab0" alt="GitHub Streak" width="520"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnDSil&theme=algolia&hide_border=true&background=0d1117&ring=02aab0&fire=00cdac&currStreakLabel=02aab0" alt="GitHub Streak" width="520"/>
 
 </div>
 
