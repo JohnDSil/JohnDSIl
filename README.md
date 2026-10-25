@@ -74,7 +74,7 @@ Soy **Daniel Silva Reina**, estudiante de 2º de **ASIR** en el IES Rodrigo Caro
 | :--- | :--- | :--- |
 | 📘 [**Guía de Kea DHCP**](https://github.com/JohnDSil/guia_kea) | Guía paso a paso para instalar y configurar el servidor DHCP Kea: subredes, reservas, opciones y comprobación del servicio | Debian/Ubuntu, Kea DHCP, redes |
 | 🐚 [**Scripts de administración**](https://github.com/JohnDSil/guia-scripting-bash) | Colección de scripts Bash para automatizar tareas repetitivas en servidores Linux | Bash, cron, Linux |
-| [**PHP desce cero**](https://github.com/JohnDSil/php_tutorial/php_tutorial) | Guía básica desde cero de PHP | Xampp, Apache o Nginx |
+| [**PHP desce cero**](https://github.com/JohnDSil/php_tutorial) | Guía básica desde cero de PHP | Xampp, Apache o Nginx |
 
 <br/>
 
