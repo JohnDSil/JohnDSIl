@@ -109,7 +109,7 @@ echo "[+] APRENDIZAJE:     cada fallo en el laboratorio es un caso resuelto"
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-silvareinadaniel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvareinadaniel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-reina-710907347/)
 [![Ubicación](https://img.shields.io/badge/Coria_del_Río-Sevilla-2EA44F?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
